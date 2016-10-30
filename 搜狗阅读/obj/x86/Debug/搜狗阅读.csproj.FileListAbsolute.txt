@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\搜狗阅读\bin\Debug\搜狗阅读.exe.config
+C:\Users\Administrator\Desktop\搜狗阅读\bin\Debug\搜狗阅读.exe
+C:\Users\Administrator\Desktop\搜狗阅读\bin\Debug\搜狗阅读.pdb
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\搜狗阅读.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\webbrowser代理ip.Form1.resources
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\搜狗阅读.Properties.Resources.resources
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\搜狗阅读.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\搜狗阅读.exe
+C:\Users\Administrator\Desktop\搜狗阅读\obj\x86\Debug\搜狗阅读.pdb
